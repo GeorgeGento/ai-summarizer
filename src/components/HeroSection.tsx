@@ -6,7 +6,7 @@ const HeroSection = () => {
       <nav className="w-full mb-10 pt-3 flex justify-between items-center">
         <img src={logo} alt="logo" className="w-28 object-contain" />
 
-        <button type="button" onClick={() => window.open('https://github.com/georgegento')} className="black_btn">
+        <button type="button" onClick={() => window.open('https://github.com/GeorgeGento/ai-summarizer')} className="black_btn">
           GitHub
         </button>
       </nav>
